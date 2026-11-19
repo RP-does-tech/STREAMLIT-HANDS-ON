@@ -1,0 +1,97 @@
+Record_ID,Faculty,Programme,Year_Level,District,Month,Study_Hours_per_Week,Attendance_Rate_pct,LMS_Logins,Assessment_Score,Satisfaction_Rating
+R001,Faculty of Technology,Data Science,1,Belait,Aug,8.3,61.7,71,91.7,3
+R002,Faculty of Technology,Data Science,2,Temburong,Sep,7.6,75.3,59,91.1,2
+R003,Faculty of Technology,Data Science,3,Belait,Oct,2.9,84.7,41,75.5,4
+R004,Faculty of Technology,Data Science,1,Temburong,Nov,4.9,70.1,43,75.3,4
+R005,Faculty of Technology,Data Science,2,Belait,Aug,5.3,96.3,63,79.8,2
+R006,Faculty of Technology,Data Science,3,Temburong,Sep,7.8,68.4,77,82.6,4
+R007,Faculty of Technology,Data Science,1,Belait,Oct,6.9,64.2,19,76.7,5
+R008,Faculty of Technology,Data Science,2,Temburong,Nov,4.9,84.8,56,80.4,5
+R009,Faculty of Technology,Data Science,3,Belait,Aug,8.3,98.1,28,89.2,3
+R010,Faculty of Technology,Data Science,1,Temburong,Sep,6.0,70.3,66,82.5,5
+R011,Faculty of Technology,Data Science,2,Belait,Oct,2.5,89.4,32,78.2,5
+R012,Faculty of Technology,Data Science,3,Temburong,Nov,8.1,68.0,61,82.6,5
+R013,Faculty of Technology,Data Science,1,Belait,Aug,4.4,78.4,31,73.0,5
+R014,Faculty of Technology,Data Science,2,Temburong,Sep,7.0,97.0,57,86.2,5
+R015,Faculty of Technology,Data Science,3,Belait,Oct,9.6,93.9,59,93.0,3
+R016,Faculty of Technology,Data Science,1,Temburong,Nov,7.1,71.7,72,82.7,4
+R017,Faculty of Technology,Media Technology,1,Belait,Aug,7.4,64.3,35,84.4,4
+R018,Faculty of Technology,Media Technology,2,Temburong,Sep,4.3,95.8,35,70.2,4
+R019,Faculty of Technology,Media Technology,3,Belait,Oct,3.9,78.5,84,70.0,5
+R020,Faculty of Technology,Media Technology,1,Temburong,Nov,5.9,89.4,16,77.9,4
+R021,Faculty of Technology,Media Technology,2,Belait,Aug,10.0,78.1,21,89.1,3
+R022,Faculty of Technology,Media Technology,3,Temburong,Sep,9.9,67.8,32,90.9,5
+R023,Faculty of Technology,Media Technology,1,Belait,Oct,6.6,72.6,22,70.8,5
+R024,Faculty of Technology,Media Technology,2,Temburong,Nov,7.8,87.8,22,84.6,4
+R025,Faculty of Technology,Media Technology,3,Belait,Aug,9.0,65.5,69,95.6,5
+R026,Faculty of Technology,Media Technology,1,Temburong,Sep,8.6,77.7,32,79.2,3
+R027,Faculty of Technology,Media Technology,2,Belait,Oct,7.6,91.6,43,90.7,4
+R028,Faculty of Technology,Media Technology,3,Temburong,Nov,7.3,81.1,30,78.6,5
+R029,Faculty of Technology,Media Technology,1,Belait,Aug,7.0,63.5,25,68.7,5
+R030,Faculty of Technology,Media Technology,2,Temburong,Sep,5.2,96.5,55,81.9,4
+R031,Faculty of Technology,Media Technology,3,Belait,Oct,9.7,66.8,63,82.3,4
+R032,Faculty of Technology,Media Technology,1,Temburong,Nov,5.7,98.0,22,81.7,4
+R033,Faculty of Business,Islamic Finance,1,Belait,Aug,5.0,83.3,20,74.1,4
+R034,Faculty of Business,Islamic Finance,2,Temburong,Sep,4.4,79.1,36,75.8,4
+R035,Faculty of Business,Islamic Finance,3,Belait,Oct,5.5,84.1,15,79.1,4
+R036,Faculty of Business,Islamic Finance,1,Temburong,Nov,5.8,91.0,61,79.3,4
+R037,Faculty of Business,Islamic Finance,2,Belait,Aug,7.7,98.6,46,96.1,4
+R038,Faculty of Business,Islamic Finance,3,Temburong,Sep,4.7,96.6,32,82.4,4
+R039,Faculty of Business,Islamic Finance,1,Belait,Oct,9.1,86.7,37,83.4,4
+R040,Faculty of Business,Islamic Finance,2,Temburong,Nov,5.5,74.3,53,79.1,5
+R041,Faculty of Business,Islamic Finance,3,Belait,Aug,6.3,82.6,60,78.0,4
+R042,Faculty of Business,Islamic Finance,1,Temburong,Sep,4.7,85.0,66,85.0,4
+R043,Faculty of Business,Islamic Finance,2,Belait,Oct,6.7,82.6,83,86.4,5
+R044,Faculty of Business,Islamic Finance,3,Temburong,Nov,9.4,61.2,31,80.0,4
+R045,Faculty of Business,Islamic Finance,1,Belait,Aug,6.5,93.1,69,86.7,4
+R046,Faculty of Business,Islamic Finance,2,Temburong,Sep,8.4,60.8,53,78.8,3
+R047,Faculty of Business,Islamic Finance,3,Belait,Oct,2.3,68.1,56,68.8,5
+R048,Faculty of Business,Islamic Finance,1,Temburong,Nov,5.2,76.3,62,80.2,3
+R049,Faculty of Business,Business Analytics,1,Belait,Aug,6.5,68.3,44,72.2,4
+R050,Faculty of Business,Business Analytics,2,Temburong,Sep,9.9,69.7,24,88.7,5
+R051,Faculty of Business,Business Analytics,3,Belait,Oct,5.4,89.3,47,87.3,4
+R052,Faculty of Business,Business Analytics,1,Temburong,Nov,4.8,72.9,52,76.3,4
+R053,Faculty of Business,Business Analytics,2,Belait,Aug,9.2,69.8,38,91.3,4
+R054,Faculty of Business,Business Analytics,3,Temburong,Sep,2.2,63.3,31,56.3,4
+R055,Faculty of Business,Business Analytics,1,Belait,Oct,9.6,86.6,30,85.5,4
+R056,Faculty of Business,Business Analytics,2,Temburong,Nov,6.0,88.6,84,82.1,4
+R057,Faculty of Business,Business Analytics,3,Belait,Aug,6.3,65.4,52,78.2,3
+R058,Faculty of Business,Business Analytics,1,Temburong,Sep,8.4,68.9,36,84.2,5
+R059,Faculty of Business,Business Analytics,2,Belait,Oct,2.8,71.3,84,69.1,5
+R060,Faculty of Business,Business Analytics,3,Temburong,Nov,6.3,94.5,74,91.5,3
+R061,Faculty of Business,Business Analytics,1,Belait,Aug,5.9,72.1,35,81.9,5
+R062,Faculty of Business,Business Analytics,2,Temburong,Sep,5.8,86.2,66,77.6,4
+R063,Faculty of Business,Business Analytics,3,Belait,Oct,3.9,75.9,35,74.4,3
+R064,Faculty of Business,Business Analytics,1,Temburong,Nov,6.1,88.3,51,84.6,4
+R065,Faculty of Social Sciences,Communication,1,Belait,Aug,3.3,65.3,70,71.4,3
+R066,Faculty of Social Sciences,Communication,2,Temburong,Sep,2.1,71.4,46,70.4,5
+R067,Faculty of Social Sciences,Communication,3,Belait,Oct,4.1,72.3,81,74.2,4
+R068,Faculty of Social Sciences,Communication,1,Temburong,Nov,3.1,79.1,70,73.5,5
+R069,Faculty of Social Sciences,Communication,2,Belait,Aug,3.4,98.9,38,78.1,4
+R070,Faculty of Social Sciences,Communication,3,Temburong,Sep,6.8,78.3,44,78.4,3
+R071,Faculty of Social Sciences,Communication,1,Belait,Oct,4.8,92.9,82,83.3,5
+R072,Faculty of Social Sciences,Communication,2,Temburong,Nov,2.4,60.8,51,71.5,4
+R073,Faculty of Social Sciences,Communication,3,Belait,Aug,3.7,82.0,27,76.8,4
+R074,Faculty of Social Sciences,Communication,1,Temburong,Sep,2.3,97.5,16,79.7,4
+R075,Faculty of Social Sciences,Communication,2,Belait,Oct,6.6,92.4,25,81.5,5
+R076,Faculty of Social Sciences,Communication,3,Temburong,Nov,8.5,80.7,84,98.0,5
+R077,Faculty of Social Sciences,Communication,1,Belait,Aug,8.8,65.2,65,85.3,4
+R078,Faculty of Social Sciences,Communication,2,Temburong,Sep,5.4,89.4,23,83.0,5
+R079,Faculty of Social Sciences,Communication,3,Belait,Oct,9.9,77.1,68,98.0,4
+R080,Faculty of Social Sciences,Communication,1,Temburong,Nov,9.3,95.5,25,88.2,4
+R081,Faculty of Social Sciences,Public Policy,1,Belait,Aug,7.4,80.7,76,98.0,4
+R082,Faculty of Social Sciences,Public Policy,2,Temburong,Sep,5.2,89.5,52,76.0,4
+R083,Faculty of Social Sciences,Public Policy,3,Belait,Oct,2.6,94.5,24,64.8,5
+R084,Faculty of Social Sciences,Public Policy,1,Temburong,Nov,9.9,63.9,38,79.7,4
+R085,Faculty of Social Sciences,Public Policy,2,Belait,Aug,5.8,70.9,18,74.6,3
+R086,Faculty of Social Sciences,Public Policy,3,Temburong,Sep,4.2,79.3,60,75.6,4
+R087,Faculty of Social Sciences,Public Policy,1,Belait,Oct,7.2,99.2,34,74.6,3
+R088,Faculty of Social Sciences,Public Policy,2,Temburong,Nov,2.1,64.6,79,65.8,4
+R089,Faculty of Social Sciences,Public Policy,3,Belait,Aug,6.9,69.0,61,81.7,4
+R090,Faculty of Social Sciences,Public Policy,1,Temburong,Sep,6.6,90.6,60,88.2,5
+R091,Faculty of Social Sciences,Public Policy,2,Belait,Oct,2.5,64.8,64,68.5,4
+R092,Faculty of Social Sciences,Public Policy,3,Temburong,Nov,6.6,87.1,80,91.7,4
+R093,Faculty of Social Sciences,Public Policy,1,Belait,Aug,9.8,85.3,35,87.9,4
+R094,Faculty of Social Sciences,Public Policy,2,Temburong,Sep,7.4,96.8,28,85.2,5
+R095,Faculty of Social Sciences,Public Policy,3,Belait,Oct,3.2,79.7,34,58.8,4
+R096,Faculty of Social Sciences,Public Policy,1,Temburong,Nov,3.6,85.8,33,72.2,5
